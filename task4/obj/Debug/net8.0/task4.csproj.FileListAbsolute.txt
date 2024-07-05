@@ -1,0 +1,15 @@
+D:\education\01_CHARP\lesson1\task4\bin\Debug\net8.0\task4.exe
+D:\education\01_CHARP\lesson1\task4\bin\Debug\net8.0\task4.deps.json
+D:\education\01_CHARP\lesson1\task4\bin\Debug\net8.0\task4.runtimeconfig.json
+D:\education\01_CHARP\lesson1\task4\bin\Debug\net8.0\task4.dll
+D:\education\01_CHARP\lesson1\task4\bin\Debug\net8.0\task4.pdb
+D:\education\01_CHARP\lesson1\task4\obj\Debug\net8.0\task4.GeneratedMSBuildEditorConfig.editorconfig
+D:\education\01_CHARP\lesson1\task4\obj\Debug\net8.0\task4.AssemblyInfoInputs.cache
+D:\education\01_CHARP\lesson1\task4\obj\Debug\net8.0\task4.AssemblyInfo.cs
+D:\education\01_CHARP\lesson1\task4\obj\Debug\net8.0\task4.csproj.CoreCompileInputs.cache
+D:\education\01_CHARP\lesson1\task4\obj\Debug\net8.0\task4.sourcelink.json
+D:\education\01_CHARP\lesson1\task4\obj\Debug\net8.0\task4.dll
+D:\education\01_CHARP\lesson1\task4\obj\Debug\net8.0\refint\task4.dll
+D:\education\01_CHARP\lesson1\task4\obj\Debug\net8.0\task4.pdb
+D:\education\01_CHARP\lesson1\task4\obj\Debug\net8.0\task4.genruntimeconfig.cache
+D:\education\01_CHARP\lesson1\task4\obj\Debug\net8.0\ref\task4.dll
