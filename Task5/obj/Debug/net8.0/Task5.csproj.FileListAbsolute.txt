@@ -1,0 +1,15 @@
+D:\education\01_CHARP\lesson1\Task5\obj\Debug\net8.0\Task5.GeneratedMSBuildEditorConfig.editorconfig
+D:\education\01_CHARP\lesson1\Task5\obj\Debug\net8.0\Task5.AssemblyInfoInputs.cache
+D:\education\01_CHARP\lesson1\Task5\obj\Debug\net8.0\Task5.AssemblyInfo.cs
+D:\education\01_CHARP\lesson1\Task5\obj\Debug\net8.0\Task5.csproj.CoreCompileInputs.cache
+D:\education\01_CHARP\lesson1\Task5\obj\Debug\net8.0\Task5.sourcelink.json
+D:\education\01_CHARP\lesson1\Task5\bin\Debug\net8.0\Task5.exe
+D:\education\01_CHARP\lesson1\Task5\bin\Debug\net8.0\Task5.deps.json
+D:\education\01_CHARP\lesson1\Task5\bin\Debug\net8.0\Task5.runtimeconfig.json
+D:\education\01_CHARP\lesson1\Task5\bin\Debug\net8.0\Task5.dll
+D:\education\01_CHARP\lesson1\Task5\bin\Debug\net8.0\Task5.pdb
+D:\education\01_CHARP\lesson1\Task5\obj\Debug\net8.0\Task5.dll
+D:\education\01_CHARP\lesson1\Task5\obj\Debug\net8.0\refint\Task5.dll
+D:\education\01_CHARP\lesson1\Task5\obj\Debug\net8.0\Task5.pdb
+D:\education\01_CHARP\lesson1\Task5\obj\Debug\net8.0\Task5.genruntimeconfig.cache
+D:\education\01_CHARP\lesson1\Task5\obj\Debug\net8.0\ref\Task5.dll
